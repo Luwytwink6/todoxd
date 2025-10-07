@@ -1,0 +1,81 @@
+body{
+    background-color: #b6d3ed;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: #8aa8ea;
+padding: 20px;
+}
+#int{
+    position:absolute;
+    top:200px
+}
+#profe{
+    position:fixed;
+    top: 600px;
+    right: 0%;
+}
+#curso{
+    position: absolute;
+ top: 200px;
+ left: 230px;
+}
+#fecha{
+position: absolute;
+ top: 200px;
+ left: 500px;
+}
+span.siw{
+    color: #1d3974;
+}
+#menu a {
+  margin: 0 15px;         
+  text-decoration: none;  
+  color: rgb(59, 59, 93);            
+  font-size: 20px;
+  font-weight: bold;
+}
+#menu a:hover {
+  color: rgb(75, 157, 198);
+}
+#intro{
+    position: absolute;
+    top:350px;
+    left: 370px;
+    font-size: medium;
+    width:800px ;
+    
+}
+span.introd{
+    color: #1d3974;
+}
+#img{
+    position: absolute;
+    top: 350px;
+    left: 30px;
+}
+#inv{
+ position: absolute;
+    top:580px;
+    font-size: medium;
+    width:800px ;
+    left: 50px;
+}
+span.inve{
+    color: #1d3974;
+}
+#img2{
+     position: absolute;
+    top: 590px;
+    left: 1000px;
+}
+#conclu{
+     position: absolute;
+    top:750px;
+    font-size: medium;
+    width:800px ;
+}
+span.concluu{
+    color: #1d3974;
+}

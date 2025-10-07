@@ -1,0 +1,134 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(175, 185, 219);
+    margin: 0;
+}
+
+header{
+    display: flex;
+    background-color: rgb(144, 144, 182);
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+a{
+    text-decoration-line: underline;
+    color:rgb(31, 35, 92);
+    font-weight: 700;
+}
+a:hover{
+    color:rgb(177, 177, 236)
+}
+#cms{
+    display: flex;
+    align-items: center;
+    color:rgb(42, 42, 85)
+    }
+#nav {
+    position: absolute;
+    top: 23px;
+    right: 200px;
+    height: 200px;
+}
+
+#imgxd{
+    position: absolute;
+    right: 200px;
+    top: 200px;
+    width: 200px;
+    height: max-content;
+}
+
+#info{
+    position: absolute;
+    left: 20px;
+    top: 100px;
+    background-color: rgb(207, 203, 229);
+    display: flex;
+    padding: 10px;
+    color:rgb(36, 36, 54);
+  } 
+
+#cosapendeja{
+    position: absolute;
+    right: 20px;
+    top: 380px;
+    color:rgb(36, 43, 100);
+}
+
+  #info2{
+    position: absolute;
+    right: 60px;
+    top: 450px;
+    background-color: rgb(207, 203, 229);
+    display: flex;
+    padding: 10px;
+    color:rgb(38, 38, 59)
+   }
+   
+   #img2 {
+    position: absolute;
+    left: 20px;
+    top: 450px;
+   }
+
+   #titulo3{
+    position: absolute;
+    left: 20px;
+    top: 700px;
+    color:rgb(36, 43, 100);
+   }
+
+   #info3{
+    position: absolute;
+    left: 20px;
+    top: 780px;
+    background-color: rgb(207, 203, 229);
+    padding: 10px;
+    color:rgb(38, 38, 59)
+   }
+
+   #img3{
+    position: absolute;
+    right: 20px;
+    top: 790px;
+   }
+
+   #titulo4{
+     position: absolute;
+    right: 90px;
+    top: 1160px;
+    color:rgb(36, 43, 100);
+   }
+
+   #info4{
+    position: absolute;
+    right: 20px;
+    top: 1270px;
+    background-color: rgb(207, 203, 229);
+    padding: 10px;
+    color:rgb(38, 38, 59)
+   }
+
+   #img4{
+      position: absolute;
+    left: 20px;
+    top: 1270px;
+   }
+
+   #conclusion{
+     position: absolute;
+    left: 570px;
+    top: 1590px;
+    color:rgb(36, 43, 100);
+   }
+
+    #concluinfo{
+    position: absolute;
+    left: 20px;
+    top: 1650px;
+    background-color: rgb(207, 203, 229);
+    padding: 10px;
+    color:rgb(38, 38, 59)
+   }
